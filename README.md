@@ -17,7 +17,9 @@ I am a Frontend Developer from Minsk. <img src="https://media.giphy.com/media/WU
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/hpXdHPfFI5wTABdDx9" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/scaler-official-computer-laptop-hello-world-hpXdHPfFI5wTABdDx9">via GIPHY</a></p>
+<div align="center">
+  <img src="https://giphy.com/embed/hpXdHPfFI5wTABdDx9/giphy.gif" width="600" height="300"/>
+</div>
 
 <!--
 **OlgaVasilevskaya/OlgaVasilevskaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
