@@ -16,7 +16,7 @@ I am a Frontend Developer from Minsk. <img src="https://media.giphy.com/media/WU
 </div>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://giphy.com/embed/M9gbBd9nbDrOTu1Mqx" width="100"/>
 </div>
 
 <!--
