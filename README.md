@@ -12,6 +12,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=OlgaVasilevskaya&style=flat-square&color=blue" alt=""/>
 
+I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Minsk.
+
+:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/olga-vasilevskaya-579339164/)
+
 <!--
 **OlgaVasilevskaya/OlgaVasilevskaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
