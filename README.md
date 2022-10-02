@@ -4,8 +4,6 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=OlgaVasilevskaya&style=flat-square&color=blue" alt=""/>
-
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Minsk.
 
 :mailbox:How to reach me: <a href="https://www.linkedin.com/in/olga-vasilevskaya-579339164/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
@@ -21,6 +19,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+<iframe src="https://giphy.com/embed/M4NykXxUE0HAcK7UJ6" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/shecodesio-computer-javascript-shecodes-M4NykXxUE0HAcK7UJ6">via GIPHY</a></p>
 
 
 <!--
