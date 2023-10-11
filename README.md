@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<img src="https://komarev.com/ghpvc/?username=OlgaVasilevskaya&style=flat-square&color=blue" alt=""/>
-
 I am a Frontend Developer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 :mailbox:How to reach me: my telegram -> oli_vasya
