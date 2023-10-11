@@ -3,7 +3,7 @@
 I am a Frontend Developer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 :mailbox:How to reach me: 
-my telegram -> oli_vasya
+<div>##my telegram -> oli_vasya</div>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
